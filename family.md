@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Family Page
-family: 'current"
+family: "current"
 ---
 
 <p>BLAH BLAH BLAHIn 2016 I loaded my kids into the minivan and took them on a drive across the Northern midwest states.  We went to Wisconsin Dells, the Badlands, Mount Rushmore, Jewel Cave, and Custer State Park.</p>
