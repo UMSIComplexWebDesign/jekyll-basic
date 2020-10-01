@@ -14,3 +14,5 @@ Here are my blog posts
     {% endfor %}
   </ul>
 {% endfor %}
+
+End loop.
