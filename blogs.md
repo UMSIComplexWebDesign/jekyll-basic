@@ -1,7 +1,7 @@
 ---
-layout: default
-title: My Blog Page
-blogs: "current"
+layout: posts
+title: My Home Page
+blog: "current"
 ---
 
 {% for tag in site.tags %}
