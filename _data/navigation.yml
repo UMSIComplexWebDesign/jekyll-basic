@@ -1,6 +1,6 @@
 - name: Home
-  link: /
-- name: Family
-  link: /family.html
+  link: /jekyll-basic/
+- name: family
+  link: /jekyll-basic/family.html
 - name: Blogs
-  link: /blogs.html
+  link: /jekyll-basic/blogs.html
