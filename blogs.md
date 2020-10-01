@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: My Home Page
+layout: default
+title: My Blog Page
 blog: "current"
 ---
 
