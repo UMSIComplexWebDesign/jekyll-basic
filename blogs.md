@@ -5,7 +5,7 @@ blog: "current"
 ---
 
 Here are my blog posts
-<!-- 
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -13,4 +13,4 @@ Here are my blog posts
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-{% endfor %} -->
+{% endfor %}
